@@ -1,0 +1,4 @@
+cd ..
+mkdir docs
+cd docs
+touch instruction.txt
